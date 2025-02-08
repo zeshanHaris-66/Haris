@@ -1,2 +1,2 @@
-from HUN import menu
-menu()
+from HUUU import loginkey
+loginkey()
