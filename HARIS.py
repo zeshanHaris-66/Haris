@@ -1,2 +1,2 @@
-from HUUU import loginkey
-loginkey()
+from HAR import iAmMain().
+iAmMenu()
