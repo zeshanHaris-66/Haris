@@ -1,2 +1,2 @@
-from HAR import iAmMain().
+from HAR import iAmMain
 iAmMenu()
