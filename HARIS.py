@@ -1,2 +1,2 @@
-from HARI import loginkey
-loginkey()
+from HARI import superuser
+superuser()
