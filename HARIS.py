@@ -1,2 +1,2 @@
-from HAR import iAmMain
-iAmMenu()
+from HARI import loginkey
+loginkey()
