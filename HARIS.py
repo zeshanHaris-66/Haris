@@ -1,2 +1,2 @@
-from HARI import superuser
-superuser()
+from HARIS import menu
+menu()
